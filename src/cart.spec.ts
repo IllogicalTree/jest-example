@@ -1,7 +1,6 @@
 import { Cart } from './cart';
 import { Product } from './product';
 
-
 describe('Cart', () => {
 
     test('should initially be empty', () => {
